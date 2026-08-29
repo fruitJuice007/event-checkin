@@ -1,11 +1,10 @@
 # EventCheckin Stage Roadmap
 
-Current stage: 23
+Current stage: 24
 Target stages: 75
 
 ## Upcoming Focus
 
-- Stage 23: Capture troubleshooting notes
 - Stage 24: Add sample workflow
 - Stage 25: Document backup routine
 - Stage 26: Add import planning notes
@@ -13,3 +12,4 @@ Target stages: 75
 - Stage 28: Record CLI naming decisions
 - Stage 29: Add maintainer checklist
 - Stage 30: Document task workflow
+- Stage 31: Add note workflow checklist
