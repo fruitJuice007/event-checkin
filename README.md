@@ -2,8 +2,8 @@
 
 EventCheckin is a small local command-line utility that grows in focused stages.
 
-Current stage: 31
-Latest focus: Add note workflow checklist
+Current stage: 32
+Latest focus: Describe tagging conventions
 
 ## Goals
 
