@@ -2,8 +2,8 @@
 
 EventCheckin is a small local command-line utility that grows in focused stages.
 
-Current stage: 49
-Latest focus: Describe audit trail ideas
+Current stage: 50
+Latest focus: Document archive behavior
 
 ## Goals
 
